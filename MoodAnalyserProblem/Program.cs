@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Welcome to MoodAnalyser Problem!");
+﻿using MoodAnalyserProblem;
+class program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("MoodAnalyser status");
+        
+    }
+}
